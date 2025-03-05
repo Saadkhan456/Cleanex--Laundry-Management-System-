@@ -1,3 +1,19 @@
+Laundry Management System (Cleanex) built on MERN Stack
+✨ Features:
+👥 User Side:
+
+Login & Registration with two branches: Karnataka & Maharashtra
+Request laundry via user dashboard
+Dynamic pricing based on clothes & quantity
+Cash on Delivery (no payment gateway yet, as I’m still learning those)
+Track laundry status in real time
+🛠️ Admin Panel:
+
+Single login (no admin registration)
+Manage users: Delete users & view their info
+Accept & finish laundry requests with simple status updates
+This project is beginner-friendly, and while it has some bugs, it's my first step toward learning the MERN stack. Excited to refine my skills further and take on more challenges!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
